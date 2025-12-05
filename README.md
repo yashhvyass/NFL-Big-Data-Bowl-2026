@@ -1,6 +1,4 @@
-# 🏈 NFL Big Data Bowl 2026 - Complete Architecture Guide
-
-## A Beginner-Friendly Deep Dive into Player Trajectory Prediction
+# 🏈 NFL Big Data Bowl 2026 - Kaggle x AWS
 
 ---
 
