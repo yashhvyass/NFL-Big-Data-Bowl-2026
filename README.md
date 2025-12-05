@@ -1251,7 +1251,6 @@ INPUT: (batch_size, window=12, features=198)
 ---
 
 <p align="center">
-  <b>🏈 Understanding is the first step to improvement! 🏈</b>
   <br><br>
   <i>This documentation was created to help anyone understand<br>
   the complex world of trajectory prediction in sports analytics.</i>
