@@ -126,7 +126,3 @@ N_LAYERS = 4
 WINDOW_SIZE = 12
 N_FOLDS = 5
 ```
-
-## License
-
-Competition use only.
