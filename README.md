@@ -1,6 +1,6 @@
 # NFL Big Data Bowl 2026
 
-Trajectory prediction for NFL players during pass plays. Given player positions and velocities before a pass, predict where each player will be when the ball arrives.
+Trajectory prediction for NFL players during pass plays. Given player positions and velocities before a pass, predict where each player will be when the ball is in the air.
 
 ## Quick Start
 
